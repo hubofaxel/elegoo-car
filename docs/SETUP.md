@@ -136,4 +136,11 @@ You now have:
 
 Happy hacking, future systems wizard!
 
+## What’s Next
+
+Now that your environment is ready, head over to the detailed coding guides:
+
+- [Uploading code to your robot](uploading-code.md)
+- [Xbox controller robot control](xbox-control-steps.md)
+
 [1]: https://cli.github.com/manual/gh_auth_login?utm_source=chatgpt.com "gh auth login - GitHub CLI"

@@ -6,4 +6,16 @@
 
  ## Getting Started
 
- Follow the step-by-step setup guide in [docs/SETUP.md](docs/SETUP.md) to get your environment ready.
+Follow the step-by-step setup guide in [docs/SETUP.md](docs/SETUP.md) to get your environment ready.
+
+## Documentation
+
+- [Uploading code to your robot](docs/uploading-code.md)
+- [Xbox controller robot control](docs/xbox-control-steps.md)
+
+## Sketches
+
+| Sketch                                   | Description                                                                         |
+|------------------------------------------|-------------------------------------------------------------------------------------|
+| `sketches/esp32_xbox_controller.ino`     | ESP32 code to pair with an Xbox controller (Bluetooth) and send motor commands.      |
+| `sketches/arduino_motor_brain.ino`       | Arduino Uno code to receive serial commands and control the motors accordingly.     |
