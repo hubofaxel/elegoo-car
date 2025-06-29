@@ -1,6 +1,8 @@
 **Let’s set everything up in six bite-sized missions.
 Do them in order and you’ll be coding your robot car in no time!**
 
+> ℹ️ For a Fedora 41–specific advanced setup (toolchain, Flatpak IDE, CLI, udev), see [SETUP-FEDORA-41.md](SETUP-FEDORA-41.md).
+
 ---
 
 ### Mission 1 – Open your Fedora terminal

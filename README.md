@@ -10,6 +10,8 @@ Follow the step-by-step setup guide in [docs/SETUP.md](docs/SETUP.md) to get you
 
 ## Documentation
 
+- [Quick start setup guide (six missions)](docs/SETUP.md)
+- [Fedora 41 advanced setup & CLI workflow](docs/SETUP-FEDORA-41.md)
 - [Uploading code to your robot](docs/uploading-code.md)
 - [Xbox controller robot control](docs/xbox-control-steps.md)
 
